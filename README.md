@@ -1,0 +1,2 @@
+# sql_frequent_interview_questions
+数据分析/数据科学常考sql题
